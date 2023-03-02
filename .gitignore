@@ -20,3 +20,4 @@ yarn-error.log
 .devcontainer/
 .gitconfig
 .vscode-server/
+.phpls/
